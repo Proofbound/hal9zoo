@@ -1,0 +1,21 @@
+# CC Template Configuration
+# This file defines variables used in template processing
+
+# Basic book metadata
+title: "The Hal9 Opportunity at Woodland Park Zoo"
+author: "Javier Luraschi"
+date: "2025-06-11"
+
+# Website and publishing settings
+page_footer: "Copyright 2025 Proofbound Publishing"
+site_url: "https://ensembio.github.io/Hal9zoo/"
+
+# Additional variables you can add:
+# description: "Book description"
+# version: "1.0.0"
+# publisher: "Publisher Name"
+# isbn: "978-0000000000"
+# keywords: ["keyword1", "keyword2"]
+
+# Custom variables for your templates
+# my_custom_variable: "custom value"

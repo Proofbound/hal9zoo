@@ -1,0 +1,50 @@
+project:
+  type: book
+  title: "The AI Opportunity at Woodland Park Zoo"
+
+book:
+  title: "The AI Opportunity at Woodland Park Zoo"
+  author: "Pedro Luraschi"
+  date: "2025-06-11"
+  search: true
+  downloads: [pdf, epub]
+  chapters:
+    - index.qmd
+    - chapters/chapter-01.qmd
+    - chapters/chapter-02.qmd
+    - chapters/chapter-03.qmd
+    - chapters/chapter-04.qmd
+    - chapters/chapter-05.qmd
+    - chapters/chapter-06.qmd
+    - chapters/chapter-07.qmd
+    - chapters/chapter-08.qmd
+    - chapters/chapter-09.qmd
+    - chapters/chapter-10.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+nocite: '@*'
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    page-footer: "Copyright 2025 Proofbound Publishing"
+    site-url: "https://proofbound.github.io/hal9zoo/"
+  pdf:
+    papersize: "Letter"
+    mainfont: "Georgia"
+    CJKmainfont: "STSong"  # or another CJK font you have installed
+    toc: true
+    documentclass: scrbook
+    geometry: paperwidth=6in,paperheight=9in
+    standalone: true
+    toc-depth: 2  
+    keep-tex: true
+    include-in-header:
+      - text: |
+          \usepackage{xeCJK}
+          \setCJKmainfont{STSong}
+    header-includes:
+      - \raggedbottom

@@ -1,0 +1,122 @@
+book:
+  title: "The Hal9 Opportunity at Woodland Park Zoo: Transforming Conservation Through Artificial Intelligence"
+  description: "A comprehensive exploration of how Hal9's AI capabilities can revolutionize Woodland Park Zoo's conservation mission, visitor experience, and operational excellence while serving as a model for conservation organizations worldwide."
+  target_length: 50000
+ 
+chapters:
+  - id: "intro"
+   title: "Where Conservation Meets Innovation"
+   description: "Establishes Woodland Park Zoo's century-long conservation legacy and introduces the transformative potential of AI in amplifying their mission to save wildlife and inspire conservation action."
+   target_words: 2000
+   status: "pending"
+   prompt_context:
+     focus: "Conservation urgency, zoo's innovation history, AI opportunity introduction"
+     tone: "Inspiring and urgent while factual and respectful"
+ 
+ - id: "chapter-01"
+   title: "Woodland Park Zoo - A Conservation Pioneer Ready for Transformation"
+   description: "Details the zoo's history of innovation, current financial strength, conservation challenges, and unique positioning for AI transformation in service of wildlife protection."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Zoo's conservation legacy, financial foundation, readiness for AI integration"
+     tone: "Respectful of history, optimistic about future potential"
+ 
+ - id: "chapter-02"
+   title: "The Hal9 Approach - AI That Serves Conservation"
+   description: "Explores Hal9's origins at Paul Allen Institute, conservation-focused AI principles, and how generative AI differs from generic solutions when applied to mission-driven organizations."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Hal9's unique approach, technical capabilities, mission alignment"
+     tone: "Technical precision balanced with conservation passion"
+ 
+ - id: "chapter-03"
+   title: "Financial Stewardship in Service of Wildlife"
+   description: "Analyzes how AI transforms financial decision-making for conservation impact, optimizing endowments, donor relationships, and revenue streams to maximize conservation funding."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Financial optimization for conservation goals, stewardship principles"
+     tone: "Professional and data-driven with conservation purpose"
+ 
+ - id: "chapter-04"
+   title: "Revolutionizing the Visitor Experience"
+   description: "Demonstrates how AI transforms passive zoo visits into active conservation engagement through personalized tours, dynamic content, and immersive technologies."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Visitor transformation, personalization, conservation inspiration"
+     tone: "Engaging and visionary while practical"
+ 
+ - id: "chapter-05"
+   title: "Education and Inspiration at Scale"
+   description: "Shows how AI enables personalized conservation education, storytelling, and measurable behavior change to create lifelong conservation advocates."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Educational transformation, conservation messaging, impact measurement"
+     tone: "Educational and inspiring with practical applications"
+ 
+ - id: "chapter-06"
+   title: "Community Engagement and Outreach"
+   description: "Explores AI-driven community programs, social media optimization, and partnership building that extend conservation impact beyond zoo boundaries."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Community building, outreach amplification, conservation networks"
+     tone: "Community-focused and collaborative"
+ 
+ - id: "chapter-07"
+   title: "Animal Care and Welfare Innovation"
+   description: "Details AI applications in predictive health monitoring, behavioral analysis, breeding programs, and habitat optimization that directly benefit animal welfare and conservation breeding."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Animal welfare technology, conservation breeding, veterinary innovation"
+     tone: "Scientific rigor with deep respect for animal welfare"
+ 
+ - id: "chapter-08"
+   title: "Operations and Resource Optimization"
+   description: "Examines behind-the-scenes AI applications for maintenance, staffing, supply chain, and energy efficiency that maximize resources available for conservation work."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Operational efficiency, resource maximization, sustainability"
+     tone: "Practical and efficiency-focused with conservation purpose"
+ 
+ - id: "chapter-09"
+   title: "Conservation Program Management"
+   description: "Analyzes AI enhancement of field conservation projects, research programs, species recovery efforts, and international partnership management."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Field conservation, research optimization, global partnerships"
+     tone: "Scientific and global perspective with local impact"
+ 
+ - id: "chapter-10"
+   title: "Implementing AI Transformation at Woodland Park Zoo"
+   description: "Provides detailed implementation strategy, change management, staff training, and success metrics specifically tailored to zoo operations and conservation goals."
+   target_words: 2500
+   status: "pending"
+   prompt_context:
+     focus: "Implementation roadmap, change management, success measurement"
+     tone: "Practical and actionable with realistic timelines"
+ 
+ - id: "conclusion"
+   title: "A Model for Conservation Excellence"
+   description: "Synthesizes the transformation vision, positions Woodland Park Zoo as a conservation technology leader, and calls the conservation community to action."
+   target_words: 2000
+   status: "pending"
+   prompt_context:
+     focus: "Vision synthesis, leadership model, conservation community impact"
+     tone: "Inspiring call to action grounded in practical achievements"
+ 
+ - id: "summary"
+   title: "Key Strategies for Conservation Impact"
+   description: "Concise summary of essential AI applications, implementation priorities, and success metrics for zoo operations focused on conservation outcomes."
+   target_words: 1000
+   status: "pending"
+   prompt_context:
+     focus: "Key takeaways, implementation priorities, quick reference"
+     tone: "Concise and actionable reference guide"
