@@ -12,7 +12,9 @@
       "Bash(git rm:*)",
       "Bash(gh api:*)",
       "Bash(gh repo edit:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(git reset:*)",
+      "Bash(quarto:*)"
     ],
     "deny": []
   }
