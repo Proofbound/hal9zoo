@@ -1,6 +1,7 @@
 project:
   type: book
   title: "The AI Opportunity at Woodland Park Zoo"
+  output-dir: docs
 
 book:
   title: "The AI Opportunity at Woodland Park Zoo"
